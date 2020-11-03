@@ -35,6 +35,9 @@ This article lists new features in the latest release of Microsoft Defender for 
 
 > [!TIP]
 > Don't have Microsoft Defender for Office 365 yet? [Contact sales to start a trial](https://go.microsoft.com/fwlink/p/?LinkId=518644).
+## November 2020
+
+- New alert Suspicious Email Forwarding Activity. Generates an alert when someone in your organization has auto-forwarded email to a suspicious external account.
 
 ## September/October 2020 
 
