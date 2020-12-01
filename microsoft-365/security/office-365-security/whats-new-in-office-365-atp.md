@@ -39,6 +39,7 @@ This article lists new features in the latest release of Microsoft Defender for 
 ## November 2020
 
 - Updated export limits in Review > Action Center > Remediation from Mail Submission and Action Log (Defender for Office 365 Plan 2)
+- New alert "Suspicious Email Forwarding Activity" (Defender for Office 365)
 
 ## September/October 2020
 
